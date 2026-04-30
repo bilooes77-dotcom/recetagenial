@@ -24,4 +24,6 @@ export interface Recipe {
 }
 
 const modules = import.meta.glob('../content/recipes/*.json', { eager: true });
-export const recipes = Object.values(modules).map((m: any) => m.default) as Recipe[];
+export const recipes = Object.values(modules)
+  .map((m: any) => m.default)
+  .sort((a, b) => new Date(b.datePublished).getTime() - new Date(a.datePublished).getTime()) as Recipe[];

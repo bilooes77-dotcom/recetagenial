@@ -18,4 +18,6 @@ export interface Article {
 }
 
 const modules = import.meta.glob('../content/articles/*.json', { eager: true });
-export const articles = Object.values(modules).map((m: any) => m.default) as Article[];
+export const articles = Object.values(modules)
+  .map((m: any) => m.default)
+  .sort((a, b) => new Date(b.datePublished).getTime() - new Date(a.datePublished).getTime()) as Article[];
