@@ -1,0 +1,45 @@
+{
+  "id": "8",
+  "title": "Fresas con Crema Vegana",
+  "slug": "fresas-con-crema-vegana",
+  "description": "Versión 100% vegetal con crema de coco batida. Igual de deliciosa, sin lácteos.",
+  "metaTitle": "Fresas con Crema Vegana - Receta Sin Lácteos Deliciosa",
+  "metaDescription": "Receta vegana de fresas con crema de coco. Sin lácteos, sin azúcar refinada. ¡Deliciosa y saludable!",
+  "prepTime": "15 min",
+  "cookTime": "0 min",
+  "totalTime": "15 min",
+  "servings": "4",
+  "difficulty": "Fácil",
+  "image": "https://images.unsplash.com/photo-1495546992359-94a48035efca?auto=format&fit=crop&q=80&w=800",
+  "pinterestDescription": "🌱 Fresas con Crema VEGANA | Con crema de coco | Sin lácteos y deliciosa",
+  "hashtags": [
+    "#vegano",
+    "#postrevegano",
+    "#sinlacteos",
+    "#fresasveganas"
+  ],
+  "ingredients": [
+    "Fresas orgánicas",
+    "1 lata de leche de coco refrigerada",
+    "Sirope de agave",
+    "Vainilla",
+    "Coco rallado"
+  ],
+  "instructions": [
+    "Refrigera la lata de coco toda la noche.",
+    "Separa la parte sólida del líquido.",
+    "Bate la crema de coco con agave and vainilla.",
+    "Sirve sobre las fresas frescas.",
+    "Decora con coco rallado."
+  ],
+  "tips": [
+    "La lata debe estar mínimo 12 horas en la nevera."
+  ],
+  "category": "Vegano",
+  "keywords": [
+    "fresas con crema vegana",
+    "postre vegano fresas",
+    "crema de coco fresas"
+  ],
+  "datePublished": "2026-04-15"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "2",
+  "title": "Fresas con Crema y Leche Condensada",
+  "slug": "fresas-con-crema-leche-condensada",
+  "description": "Una versión extra dulce y suave con la irresistible leche condensada. El favorito de toda la familia.",
+  "metaTitle": "Fresas con Crema y Leche Condensada - Receta Irresistible",
+  "metaDescription": "La mejor receta de fresas con crema y leche condensada. Extra dulce, cremosa y lista en 10 minutos.",
+  "prepTime": "10 min",
+  "cookTime": "0 min",
+  "totalTime": "40 min",
+  "servings": "6",
+  "difficulty": "Fácil",
+  "image": "https://images.unsplash.com/photo-1541167760496-1628856ab772?auto=format&fit=crop&q=80&w=800",
+  "pinterestDescription": "🍓 Fresas con Crema y Leche Condensada | Extra dulce y cremosa | Lista en minutos",
+  "hashtags": [
+    "#lechecondensada",
+    "#fresasconcrema",
+    "#postrefacil",
+    "#recetadulce"
+  ],
+  "ingredients": [
+    "1 kilo de fresas",
+    "1 lata de leche condensada",
+    "1 lata de media crema",
+    "1 taza de crema ácida",
+    "Vainilla al gusto"
+  ],
+  "instructions": [
+    "Corta las fresas en rebanadas delgadas.",
+    "Mezcla las tres cremas en un bowl grande.",
+    "Agrega un chorrito de vainilla.",
+    "Vierte la mezcla sobre las fresas.",
+    "Refrigera por 30 minutos antes de servir."
+  ],
+  "tips": [
+    "Sirve en copas individuales para una presentación Pinterest-worthy."
+  ],
+  "category": "Dulce",
+  "keywords": [
+    "fresas con leche condensada",
+    "postre tres leches fresas",
+    "fresas cremosas"
+  ],
+  "featured": true,
+  "datePublished": "2026-04-03"
+}

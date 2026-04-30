@@ -1,0 +1,45 @@
+{
+  "id": "3",
+  "title": "Fresas con Crema Estilo Mexicano",
+  "slug": "fresas-con-crema-estilo-mexicano",
+  "description": "El postre callejero más icónico de México con crema ácida, canela y nuez picada.",
+  "metaTitle": "Fresas con Crema Estilo Mexicano - Receta Auténtica",
+  "metaDescription": "Receta auténtica de fresas con crema estilo mexicano. Con crema ácida, canela y nuez. ¡Como en las ferias!",
+  "prepTime": "20 min",
+  "cookTime": "0 min",
+  "totalTime": "20 min",
+  "servings": "4",
+  "difficulty": "Fácil",
+  "image": "https://images.unsplash.com/photo-1564049819479-af0600ba3b16?auto=format&fit=crop&q=80&w=800",
+  "pinterestDescription": "🇲🇽 Fresas con Crema Estilo Mexicano | Receta auténtica de feria | Con canela y nuez",
+  "hashtags": [
+    "#recetamexicana",
+    "#fresasconcrema",
+    "#comidamexicana",
+    "#postremexicano"
+  ],
+  "ingredients": [
+    "Fresas frescas",
+    "Crema ácida",
+    "Azúcar",
+    "Canela en polvo",
+    "Nuez picada"
+  ],
+  "instructions": [
+    "Limpia las fresas and déjalas enteras o a la mitad.",
+    "Bate la crema ácida con el azúcar.",
+    "Mezcla las fresas con la crema generosamente.",
+    "Espolvorea canela y nuez picada al servir."
+  ],
+  "tips": [
+    "Usa crema ácida de buena calidad para el sabor auténtico."
+  ],
+  "category": "Mexicano",
+  "keywords": [
+    "fresas con crema mexicana",
+    "postre mexicano",
+    "fresas estilo feria"
+  ],
+  "trending": true,
+  "datePublished": "2026-04-05"
+}

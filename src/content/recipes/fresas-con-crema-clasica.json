@@ -1,0 +1,48 @@
+{
+  "id": "1",
+  "title": "Fresas con Crema Clásica",
+  "slug": "fresas-con-crema-clasica",
+  "description": "La receta tradicional que todos amamos. Dulce, cremosa y perfecta para cualquier ocasión especial o antojo.",
+  "metaTitle": "Fresas con Crema Clásica - Receta Fácil en 15 Minutos",
+  "metaDescription": "Aprende a hacer fresas con crema clásica en solo 15 minutos. Receta fácil, cremosa y perfecta para cualquier ocasión.",
+  "prepTime": "15 min",
+  "cookTime": "0 min",
+  "totalTime": "15 min",
+  "servings": "4-6",
+  "difficulty": "Fácil",
+  "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&q=80&w=800",
+  "pinterestDescription": "🍓 Fresas con Crema Clásica | Receta fácil en 15 min | El postre perfecto para cualquier ocasión",
+  "hashtags": [
+    "#fresasconcrema",
+    "#postrefacil",
+    "#recetasmexicanas",
+    "#postresvirales"
+  ],
+  "ingredients": [
+    "500g de fresas frescas",
+    "1 taza de crema para batir",
+    "1/2 taza de leche condensada",
+    "1 cucharadita de extracto de vainilla",
+    "Azúcar al gusto"
+  ],
+  "instructions": [
+    "Lava y desinfecta las fresas, retira las hojas y córtalas en mitades.",
+    "Bate la crema hasta que espese ligeramente.",
+    "Agrega la leche condensada y la vainilla, mezclando suavemente.",
+    "Incorpora las fresas a la crema y mezcla bien.",
+    "Refrigera 15 minutos y sirve frío."
+  ],
+  "tips": [
+    "Usa fresas bien maduras for mejor sabor.",
+    "Puedes agregar media crema para textura más fluida."
+  ],
+  "category": "Tradicional",
+  "keywords": [
+    "fresas con crema receta fácil",
+    "postre con fresas",
+    "crema batida con fresas"
+  ],
+  "featured": true,
+  "trending": true,
+  "datePublished": "2026-04-01"
+}

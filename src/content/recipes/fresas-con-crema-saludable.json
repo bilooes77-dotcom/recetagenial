@@ -1,0 +1,44 @@
+{
+  "id": "4",
+  "title": "Fresas con Crema Saludable Sin Azúcar",
+  "slug": "fresas-con-crema-saludable",
+  "description": "Versión fitness con yogurt griego y stevia. Todo el sabor sin las calorías extras.",
+  "metaTitle": "Fresas con Crema Saludable Sin Azúcar - Receta Fit",
+  "metaDescription": "Receta saludable de fresas con crema sin azúcar. Con yogurt griego y stevia. ¡Perfecta para tu dieta!",
+  "prepTime": "10 min",
+  "cookTime": "0 min",
+  "totalTime": "10 min",
+  "servings": "2",
+  "difficulty": "Fácil",
+  "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&q=80&w=800",
+  "pinterestDescription": "💪 Fresas con Crema SALUDABLE | Sin azúcar, con yogurt griego | Postre fit perfecto",
+  "hashtags": [
+    "#recetafit",
+    "#sinazucar",
+    "#postrefit",
+    "#fresassaludable"
+  ],
+  "ingredients": [
+    "2 tazas de fresas",
+    "1 taza de yogurt griego sin azúcar",
+    "Stevia al gusto",
+    "Esencia de vainilla",
+    "Almendras fileteadas"
+  ],
+  "instructions": [
+    "Corta las fresas en cubos.",
+    "Endulza el yogurt con stevia y vainilla.",
+    "Mezcla las fresas con el yogurt.",
+    "Decora con almendras fileteadas."
+  ],
+  "tips": [
+    "Usa yogurt de coco para versión vegana."
+  ],
+  "category": "Saludable",
+  "keywords": [
+    "fresas con crema sin azúcar",
+    "postre saludable",
+    "fresas fit"
+  ],
+  "datePublished": "2026-04-07"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "5",
+  "title": "Fresas con Crema y Queso Crema",
+  "slug": "fresas-con-crema-queso",
+  "description": "Textura aterciopelada tipo cheesecake. El queso crema le da un toque gourmet increíble.",
+  "metaTitle": "Fresas con Crema y Queso Crema - Postre Gourmet Fácil",
+  "metaDescription": "Fresas con crema y queso crema estilo cheesecake. Textura gourmet en solo 25 minutos.",
+  "prepTime": "25 min",
+  "cookTime": "0 min",
+  "totalTime": "25 min",
+  "servings": "4-6",
+  "difficulty": "Media",
+  "image": "https://images.unsplash.com/photo-1464195244916-405fa0a82545?auto=format&fit=crop&q=80&w=800",
+  "pinterestDescription": "✨ Fresas con Queso Crema | Estilo cheesecake SIN horno | Postre gourmet en 25 min",
+  "hashtags": [
+    "#cheesecake",
+    "#quesocrema",
+    "#postregourmet",
+    "#fresasconcrema"
+  ],
+  "ingredients": [
+    "500g de fresas",
+    "190g de queso crema",
+    "1/2 taza de crema para batir",
+    "3/4 taza de azúcar glass",
+    "Ralladura de limón"
+  ],
+  "instructions": [
+    "Bate el queso crema con el azúcar glass.",
+    "Monta la crema e incorpórala al queso de forma envolvente.",
+    "Agrega la ralladura de limón.",
+    "Sirve las fresas con la crema de queso."
+  ],
+  "tips": [
+    "La ralladura de limón resalta el sabor de la fresa."
+  ],
+  "category": "Gourmet",
+  "keywords": [
+    "fresas con queso crema",
+    "cheesecake fresas sin horno",
+    "postre gourmet"
+  ],
+  "featured": true,
+  "datePublished": "2026-04-09"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "10",
+  "title": "Fresas con Crema y Nutella",
+  "slug": "fresas-con-crema-nutella",
+  "description": "La indulgencia máxima: capas de crema, fresas frescas y generosos remolinos de Nutella.",
+  "metaTitle": "Fresas con Crema y Nutella - El Postre Más Indulgente",
+  "metaDescription": "Fresas con crema y Nutella: el postre más indulgente y viral. Perfecto para amantes del chocolate con avellana.",
+  "prepTime": "15 min",
+  "cookTime": "0 min",
+  "totalTime": "15 min",
+  "servings": "4",
+  "difficulty": "Fácil",
+  "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&q=80&w=800",
+  "pinterestDescription": "😍 Fresas con Crema y NUTELLA | Postre indulgente | El más viral de Pinterest",
+  "hashtags": [
+    "#nutella",
+    "#fresasconnutella",
+    "#postreviral",
+    "#postreindulgente"
+  ],
+  "ingredients": [
+    "Fresas maduras",
+    "Crema batida",
+    "1/2 taza de Nutella",
+    "Avellanas picadas",
+    "Galletas de vainilla"
+  ],
+  "instructions": [
+    "Corta las fresas en mitades.",
+    "En copas, alterna capas de fresas y crema.",
+    "Calienta ligeramente la Nutella y viértela en hilos.",
+    "Decora con avellanas picadas.",
+    "Sirve con galletas al lado."
+  ],
+  "tips": [
+    "Calienta la Nutella 15 segundos en microondas para que fluya mejor."
+  ],
+  "category": "Indulgente",
+  "keywords": [
+    "fresas con nutella",
+    "postre nutella",
+    "fresas crema nutella"
+  ],
+  "trending": true,
+  "featured": true,
+  "datePublished": "2026-04-19"
+}

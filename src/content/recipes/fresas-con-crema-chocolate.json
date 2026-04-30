@@ -1,0 +1,45 @@
+{
+  "id": "6",
+  "title": "Fresas con Crema y Chocolate",
+  "slug": "fresas-con-crema-chocolate",
+  "description": "La combinación perfecta: fresas frescas, crema batida y chocolate amargo derretido.",
+  "metaTitle": "Fresas con Crema y Chocolate - Postre Irresistible",
+  "metaDescription": "Fresas con crema y chocolate derretido. La combinación más irresistible para los amantes del chocolate.",
+  "prepTime": "20 min",
+  "cookTime": "5 min",
+  "totalTime": "25 min",
+  "servings": "4",
+  "difficulty": "Fácil",
+  "image": "https://images.unsplash.com/photo-1590089415225-401ed6f9db8e?auto=format&fit=crop&q=80&w=800",
+  "pinterestDescription": "🍫 Fresas con Crema y CHOCOLATE | Postre viral irresistible | Listo en 25 min",
+  "hashtags": [
+    "#fresasconchocolate",
+    "#postrechocolate",
+    "#postreviral",
+    "#fresasconcrema"
+  ],
+  "ingredients": [
+    "Fresas maduras",
+    "Crema batida",
+    "100g de chocolate semi-amargo",
+    "Granola o chispas de chocolate"
+  ],
+  "instructions": [
+    "Coloca las fresas en un tazón.",
+    "Cubre con crema batida.",
+    "Derrite el chocolate a baño maría.",
+    "Vierte el chocolate en hilos sobre la crema.",
+    "Agrega granola para textura."
+  ],
+  "tips": [
+    "Usa chocolate con 70% cacao para mejor contraste."
+  ],
+  "category": "Chocolate",
+  "keywords": [
+    "fresas con chocolate",
+    "postre chocolate fresas",
+    "fresas crema chocolate"
+  ],
+  "trending": true,
+  "datePublished": "2026-04-11"
+}
