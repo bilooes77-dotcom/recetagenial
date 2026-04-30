@@ -4,6 +4,7 @@ import { motion } from 'framer-motion';
 import type { Article } from '../data/articles';
 
 const ArticleCard = ({ article, variant = 'default' }: { article: Article; variant?: 'default' | 'featured' | 'horizontal' }) => {
+  if (!article) return null;
 
   if (variant === 'featured') {
     return (

@@ -17,7 +17,8 @@ export interface Article {
   trending?: boolean;
 }
 
-const modules = import.meta.glob('../content/articles/*.json', { eager: true, import: 'default' });
+const modules = import.meta.glob('../content/articles/*.json', { eager: true });
 export const articles = Object.values(modules)
-  .filter((a: any) => a && a.id && a.slug) // Filter out malformed or empty data
+  .map((m: any) => m.default || m)
+  .filter((a: any) => a && typeof a === 'object' && a.slug)
   .sort((a, b) => new Date(b.datePublished).getTime() - new Date(a.datePublished).getTime()) as Article[];

@@ -16,10 +16,10 @@ const Blog = () => {
 
   const categories = ['Todos', ...new Set(articles.map(a => a.category))];
   const featuredArticle = articles.find(a => a.featured && a.trending) || articles[0];
-  const trendingArticles = articles.filter(a => a.trending && a.id !== featuredArticle.id).slice(0, 2);
+  const trendingArticles = articles.filter(a => a && a.trending && a.id !== featuredArticle?.id).slice(0, 2);
 
   const filtered = articles.filter(a => {
-    if (a.id === featuredArticle.id) return false;
+    if (!a || !featuredArticle || a.id === featuredArticle.id) return false;
     const matchCategory = activeCategory === 'Todos' || a.category === activeCategory;
     const matchSearch = a.title.toLowerCase().includes(search.toLowerCase()) || a.excerpt.toLowerCase().includes(search.toLowerCase());
     return matchCategory && matchSearch;
@@ -59,7 +59,7 @@ const Blog = () => {
         {!search && activeCategory === 'Todos' && (
           <motion.section className="blog-featured-section" variants={fadeUp} initial="hidden" whileInView="visible" viewport={{ once: true }} custom={0}>
             <h2 className="blog-section-title"><TrendingUp size={22} /> Artículo Destacado</h2>
-            <ArticleCard article={featuredArticle} variant="featured" />
+            {featuredArticle && <ArticleCard article={featuredArticle} variant="featured" />}
           </motion.section>
         )}
 

@@ -23,7 +23,8 @@ export interface Recipe {
   datePublished: string;
 }
 
-const modules = import.meta.glob('../content/recipes/*.json', { eager: true, import: 'default' });
+const modules = import.meta.glob('../content/recipes/*.json', { eager: true });
 export const recipes = Object.values(modules)
-  .filter((r: any) => r && r.id && r.slug) // Filter out malformed or empty data
+  .map((m: any) => m.default || m)
+  .filter((r: any) => r && typeof r === 'object' && r.slug)
   .sort((a, b) => new Date(b.datePublished).getTime() - new Date(a.datePublished).getTime()) as Recipe[];
