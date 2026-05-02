@@ -74,7 +74,7 @@ const Contact = () => {
             <div className="sidebar-widget sidebar-cta">
               <h3>📌 Pinterest</h3>
               <p>¿Eres creador? Colaboremos en tableros grupales.</p>
-              <a href="https://pinterest.com" target="_blank" rel="noreferrer" className="btn btn-white btn-sm">Ver Perfil</a>
+              <a href="https://es.pinterest.com/fresasblog/" target="_blank" rel="noreferrer" className="btn btn-white btn-sm">Ver Perfil</a>
             </div>
           </aside>
         </div>

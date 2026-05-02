@@ -290,7 +290,7 @@ const Home = () => {
             <div className="pinterest-cta-content">
               <h2>📌 Síguenos en Pinterest</h2>
               <p>Guarda todas nuestras recetas y obtén inspiración diaria para tus postres.</p>
-              <a href="https://pinterest.com" target="_blank" rel="noreferrer" className="btn btn-white btn-lg">
+              <a href="https://es.pinterest.com/fresasblog/" target="_blank" rel="noreferrer" className="btn btn-white btn-lg">
                 <Users size={18} /> Seguir en Pinterest
               </a>
             </div>

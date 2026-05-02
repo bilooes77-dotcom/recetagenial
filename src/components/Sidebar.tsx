@@ -48,7 +48,7 @@ const Sidebar = () => {
       <div className="sidebar-widget sidebar-cta">
         <h3>📌 Síguenos en Pinterest</h3>
         <p>Guarda todas nuestras recetas virales y nunca te pierdas un nuevo postre.</p>
-        <a href="https://pinterest.com" target="_blank" rel="noreferrer" className="btn btn-primary" style={{ width: '100%' }}>
+        <a href="https://es.pinterest.com/fresasblog/" target="_blank" rel="noreferrer" className="btn btn-primary" style={{ width: '100%' }}>
           Seguir en Pinterest
         </a>
       </div>
