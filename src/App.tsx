@@ -1,4 +1,5 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { Analytics } from "@vercel/analytics/react";
 import { HelmetProvider } from 'react-helmet-async';
 import Header from './components/Header';
 import Footer from './components/Footer';
@@ -38,6 +39,7 @@ function App() {
           <Footer />
           <ScrollToTop />
           <CookieConsent />
+          <Analytics />
         </div>
       </Router>
     </HelmetProvider>
